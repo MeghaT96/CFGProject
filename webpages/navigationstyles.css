@@ -1,5 +1,17 @@
-h1{
+h1 {
 	font-family: impact;
-	font-size: 30px;
-	color: teal;
+	font-size: 100px;
+	text-align: center;
+}
+
+.Home {
+	color: #2FB1C0;
+}
+
+.About {
+	color: #F5A721;
+}
+
+.Contact {
+		color: #BAEB48;
 }
