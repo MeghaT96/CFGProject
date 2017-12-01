@@ -23,14 +23,6 @@ area{
     outline: none;
 }
 
-.social-buttons {
-	background-color: white;
-	font-family: arial;
-	font-size: 15px;
-	color: black;
-	padding: 5px
-
-}
 .image-wrapper{
 	position: relative;
 	width: 1250px;
@@ -106,7 +98,7 @@ area{
 }
 
 .social-media{
-	margin-left: 750px
+	margin-left: 600px;
 
 }
 
