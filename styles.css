@@ -15,6 +15,10 @@ img {
 	
 }   
 
+.worldmap {
+	width: 1250px;
+}
+
 area{
     outline: none;
 }
