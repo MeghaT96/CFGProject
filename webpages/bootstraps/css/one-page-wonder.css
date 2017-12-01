@@ -23,6 +23,28 @@ header.masthead {
   background-color: #363535;
 }
 
+
+header.masthead1 {
+  background: url('plane.jpg') no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-color: #363535;
+}
+header.masthead1>.overlay {
+  padding: 5rem 0;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.75);q
+
+}
+
+@media (min-width: 992px) {
+  header.masthead1>.overlay {
+    padding: 10rem 0;
+  }
+
+
 header.masthead>.overlay {
   padding: 5rem 0;
   text-align: center;
@@ -38,3 +60,61 @@ header.masthead>.overlay {
 body {
     background-color:#363535;
 }
+
+.name {
+  font-family: Impact;
+  font-size: 60px;
+  color: #F5A721;
+}
+
+.name2{
+  font-family: Impact;
+  font-size: 60px;
+  color: #2FB1C0;
+}
+
+.name3 {
+  font-family: Impact;
+  font-size: 60px;
+  color: #EF385D;
+
+}
+
+.para1 {
+  font-family: calibri;
+  font-size: 24px;
+  color:  #363535;
+  text-align: justify;
+}
+
+.here {
+  color: #EF385D;
+}
+
+.here:hover {
+    color: #EF385D;
+}
+
+.title{
+  font-family: impact;
+  font-size: 110px;
+  text-align: center;
+  color: #2FB1C0;
+}
+
+.subtitle{
+  font-family: calibri;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+
+}
+
+.title1 {
+  font-family: impact;
+  font-size: 110px;
+  text-align: center;
+  color:#BAEB48;
+}
+
+
