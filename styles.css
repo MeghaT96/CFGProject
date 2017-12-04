@@ -40,6 +40,7 @@ area{
 	font-family: sans-serif;
 	font-size: 20px;
 	padding-left: 30px;
+	outline: none;
 
 }
 
@@ -166,6 +167,4 @@ area{
 }
 
 
-div {
-    cursor:url(plane.png),auto;
-}
+
