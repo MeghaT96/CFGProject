@@ -40,8 +40,7 @@ area{
 	text-decoration: unset;
 	font-family: sans-serif;
 	font-size: 20px;
-	top: 485px;
-	left: 300px;
+	padding-left: 30px;
 
 }
 
@@ -50,8 +49,7 @@ area{
 	text-decoration: unset;
 	font-family: sans-serif;
 	font-size: 20px;
-	top: 485px;
-	left: 300px;
+	padding-left: 30px;
 }
 
 .RDJ {
@@ -59,8 +57,7 @@ area{
 	text-decoration: unset;
 	font-family: sans-serif;
 	font-size: 20px;
-	top: 485px;
-	left: 300px;
+	padding-left: 30px;
 }
 
 .MW {
@@ -68,8 +65,7 @@ area{
 	text-decoration: unset;
 	font-family: sans-serif;
 	font-size: 20px;
-	top: 485px;
-	left: 300px;
+	padding-left: 30px;
 }
 
 .SY {
@@ -77,8 +73,7 @@ area{
 	text-decoration: unset;
 	font-family: sans-serif;
 	font-size: 20px;
-	top: 485px;
-	left: 300px;
+	padding-left: 30px;
 }
 
 .ANT{
@@ -86,8 +81,7 @@ area{
 	text-decoration: unset;
 	font-family: sans-serif;
 	font-size: 20px;
-	top: 485px;
-	left: 300px;
+	padding-left: 30px;
 }
 
 
@@ -96,8 +90,7 @@ area{
 	text-decoration: unset;
 	font-family: sans-serif;
 	font-size: 20px;
-	top: 485px;
-	left: 300px;
+	padding-left: 30px;
 }
 
 
@@ -106,8 +99,7 @@ area{
 	text-decoration: unset;
 	font-family: sans-serif;
 	font-size: 20px;
-	top: 485px;
-	left: 300px;
+	padding-left: 30px;
 
 }
 
@@ -116,9 +108,12 @@ area{
 	text-decoration: unset;
 	font-family: sans-serif;
 	font-size: 20px;
-	top: 485px;
-	left: 300px;
+	padding-left: 30px;
 
+}
+
+.cities {
+	text-align: center;
 }
 .facebook {
 	width:50px;
