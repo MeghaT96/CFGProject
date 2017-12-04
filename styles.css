@@ -118,12 +118,12 @@ area{
 
 .facebook {
 	width:50px;
-	margin-left: 550px;
+	margin: auto;
 }
 
 .twitter {
 	width: 50px;
-	margin-right: 550px;	
+	margin: auto;	
 }
 
 .insta {
