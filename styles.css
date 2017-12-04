@@ -81,6 +81,45 @@ area{
 	left: 300px;
 }
 
+.ANT{
+	color: #BAEB48;
+	text-decoration: unset;
+	font-family: sans-serif;
+	font-size: 20px;
+	top: 485px;
+	left: 300px;
+}
+
+
+.CAPE {
+	color: #2FB1C0;
+	text-decoration: unset;
+	font-family: sans-serif;
+	font-size: 20px;
+	top: 485px;
+	left: 300px;
+}
+
+
+.BEJ{
+    color: #BAEB48;
+	text-decoration: unset;
+	font-family: sans-serif;
+	font-size: 20px;
+	top: 485px;
+	left: 300px;
+
+}
+
+.VAN{
+	color: #2FB1C0;
+	text-decoration: unset;
+	font-family: sans-serif;
+	font-size: 20px;
+	top: 485px;
+	left: 300px;
+
+}
 .facebook {
 	width:50px;
 	
