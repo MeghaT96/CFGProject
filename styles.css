@@ -118,23 +118,24 @@ area{
 
 .facebook {
 	width:50px;
-	margin: auto;
-	display: block;
+
+}
 
 .twitter {
 	width: 50px;
-	margin: auto;
-	display: block;	
+
 }
 
 .insta {
 	width:60px;
-	margin: auto;
-	display: block;
 
 }
 
-
+.social-media{
+	margin-left: 550px;
+	width: 50 px;
+	align-content: center;
+}
 
 .container1{
 	text-align: right;
